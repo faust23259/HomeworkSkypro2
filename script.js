@@ -4,8 +4,8 @@ alert(a);
 a = 20;
 alert(a);
 // Задание 2
-let year = 2007;
-alert(`Год выпуска первого iPhone - ${year}`);
+let yearFirstIphone = 2007;
+alert(`Год выпуска первого iPhone - ${yearFirstIphone}`);
 // Задание 3
 const userName = "Брендан Айк (Brandan Eich)";
 alert(`Имя создателя языка JavaScript - ${userName}`)
